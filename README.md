@@ -28,7 +28,7 @@ Deleting old messages
 
 My App Idea:
 
-I always struggle to decide which restaurant I want to go to or order from, so I want to make a restaurant decider app. Ideally, it would find all open restaurants within a certain distance like 5-10 miles away from the user. It would then show the names of two restaurants side by side and have a timer for 5 seconds, so that the user can select which restaurant he/she prefers under stress. Eventually, the user could land on one final restaurant after going through all of the options and finally know where he/she wants to eat from. I would have to use an API, but I am unsure of how to display the two restaurants and figure out the logic for that.
+I always struggle to decide which restaurant I want to go to or order from and it takes me a lot of time, so I want to make a restaurant decider app. Ideally, it would find all open restaurants within a certain distance like 5-10 miles away from the user. It would then show the names of two restaurants side by side and have a timer for 5 seconds, so that the user can select which restaurant he/she prefers under stress. Eventually, the user could land on one final restaurant after going through all of the options and finally know where he/she wants to eat from. I would have to use an API, but I am unsure of how to display the two restaurants and figure out the logic for that.
 
 ## Notes
 
