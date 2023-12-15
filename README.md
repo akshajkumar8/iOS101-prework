@@ -25,7 +25,10 @@ Make a list of your favorite 3-5 applications and identify 2-3 features that mak
 Example App: Instagram
 Changing the background color of the messages screen
 Deleting old messages
-Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
+
+My App Idea:
+
+I always struggle to decide which restaurant I want to go to or order from, so I want to make a restaurant decider app. Ideally, it would find all open restaurants within a certain distance like 5-10 miles away from the user. It would then show the names of two restaurants side by side and have a timer for 5 seconds, so that the user can select which restaurant he/she prefers under stress. Eventually, the user could land on one final restaurant after going through all of the options and finally know where he/she wants to eat from. I would have to use an API, but I am unsure of how to display the two restaurants and figure out the logic for that.
 
 ## Notes
 
