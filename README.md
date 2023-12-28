@@ -17,12 +17,25 @@ The following **required** functionality is completed:
 
 ![](https://i.imgur.com/mKcYssX.gif)
 
-## App Brainstorming (Step 4)
+## App Brainstorming
 
-Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
-Example App: Instagram
-Changing the background color of the messages screen
-Deleting old messages
+My favorite applications and features that make them my favorite app:
+
+App: Notes
+Clean and easy-to-use user interface
+Various formatting options like changing font size, making checklists, etc.
+
+App: Snapchat
+AR filters and lenses are fun
+Camera app combined with messaging is very nice
+
+App: Photos
+Can search entire photo library for all photos that have a specific object
+Many features for editing photos and also makes slideshows with music
+
+App: Weather
+Animations and graphics are nice
+Displays helpful information in a clean way
 
 My App Idea:
 
